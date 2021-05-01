@@ -1,0 +1,2 @@
+**Problema:**
+El problema es que un estudiante realizo un programa cuando estaba empezando a aprender a programar en el cual puso los estados de sus variable con 1 y 0 porque aun no conocia los booleanos siendo que ahora quiere volver a usar ese codigo solo que implementado los principio de SOLID y tampoco quiere reacer su programa
